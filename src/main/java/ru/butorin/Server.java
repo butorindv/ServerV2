@@ -14,6 +14,7 @@ public class Server {
 
     public void seance(Socket socket) {
 
+
         try {
             System.out.println("Клиент " + socket.getInetAddress().getHostAddress() + " подключился.");
             log.info("Клиент " + socket.getInetAddress().getHostAddress() + " подключился.");

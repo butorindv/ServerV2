@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: ru.butorin.Main
+Class-Path: spring-expression-5.3.3.jar spring-aop-5.3.3.jar spring-jcl-
+ 5.3.3.jar spring-boot-autoconfigure-2.4.5.jar spring-beans-5.3.3.jar sp
+ ring-core-5.3.3.jar spring-context-5.3.3.jar log4j-1.2.17.jar json-2014
+ 0107.jar spring-boot-2.4.5.jar
+
